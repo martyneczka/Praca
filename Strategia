@@ -3,19 +3,6 @@ class Latanie():
         pass
     def ruch(self):
         print('Teraz lece')
-
-
-
-
-
-
-
-
-
-
-
-
-
 class Bezruch():
     def __init__(self):
         pass
