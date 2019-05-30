@@ -1,1 +1,5 @@
-
+class Plywanie():
+    def __init__(self):
+        pass
+    def ruch(self):
+        print('Teraz plywam')
