@@ -20,3 +20,8 @@ class Plywanie():
         pass
     def ruch(self):
         print('Teraz plywam')
+ptak = Labedz()
+wybor = Latanie()
+#strategia = Plywanie()
+ptak.strategia(wybor)
+ptak.wykonanie()
